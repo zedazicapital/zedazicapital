@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zedazicapital
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning substrate
-- 💞️ I’m looking to collaborate on substrate
+- 👋 Hi, we're @zedazicapital
+- 👀 we're interested in web3
+- 🌱 we’re currently learning substrate
+- 💞️ we’re looking to collaborate on substrate
 - 📫 How to reach me @zedazi:matrix.org
 
 <!---
